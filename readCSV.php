@@ -77,7 +77,7 @@
 			var axes = new THREE.AxisHelper(sizeA);
 			scene.add(axes);
 			
-			//drawAxes();	
+			drawAxes();	
 			// drawPts(10,10,10, apple);
 			//drawPts(15,15,15);
 			
